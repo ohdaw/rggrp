@@ -1,0 +1,28 @@
+{
+    "split": "8",
+    "corp-prefix": {
+        "id": "<:MiniCrit:1362455364431511622> )",
+        "edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22":"**<:Osmium:1322458528723763250>}>**"
+    },
+    "emojis": {
+        "win": " `🏆`",
+        "lose": " `❌`",
+        "draw": " `➖`",
+        "art": "<:Battle_Art:1258354913667448916>"
+    },
+    "code-block": {
+        "win": "8J+Phg==",
+        "lose": "4p2M",
+        "draw": "4p6W",
+        "art": "4qyb"
+    },
+    "txt": {
+        "part1": "- $PREFIX $NAME ($WINS$EMOJIWINS $LOSE$EMOJILOSE $DRAW$EMOJIDRAW)",
+        "part2": "```$START $TIMEVAL $START $SECOND $BLU ($SCOREBLU) - $RED ($SCORERED)```",
+        "part3": {
+            "yes": "-# Artefact boost end at <t:$SEC:D> <t:$SEC:t> (<t:$SEC:R>)",
+            "no": "-# Artefact boost inactive"
+        }
+    },
+    "timestamp": "m-d"
+}
